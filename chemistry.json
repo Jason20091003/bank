@@ -365,9 +365,6 @@
   "hooke called the chambers under microscope _______": "cells",
   "what Anton van Leeuwenhoek was studying?": "pond water",
   "in the Cell theory, Matthias Schleiden concluded that_______": "all plants are made of cells",
-  "in the cell theory Theodor Schwann stated that____________": "all animals are made of cells.",
-  "german physician RudolfVirchow published the idea that_________________": "new cells can be produced only from the division of existing cells.",
-  "the cell theory states:": "All living things are made up of cells; Cells are the basic units of structure and function in living things; New cells are produced from existing cells.",
   "microscopes work by using____________ to produce magniﬁed images.": "beams of light or electrons",
   "a typical light microscope allows light to pass through a _________ and uses two lenses to form an image.": "specimen",
   "light microscopes can produce clear images of objects only to a magniﬁcation of about ________ times.": "1000",
@@ -380,7 +377,6 @@
   "the two major types of electron microscopes are ____________________________": "transmission and scanning",
   "in Transmission Electron Microscopes, Beams ams of electrons can only __________ thin samples, so cells and tissues must be cut into extremely thin slices before they can be examined.": "pass through",
   "in Scanning Electron Microscopes, a pencil like beam of electrons is ___________ the surface of a specimen.": "scanned over",
-  "the scanning electron microscope produces stunning ______________ images of the specimen's surface.": "three-dimensional",
   "the colors in light micrographs come from the cells themselves or from _____________ used to highlight them.": "the stains and dyes",
   "electron micrographs, however, are actually ___________ color .": "black and white",
   "if scientists were studying a structure found on the surface of yeast, which kind of microscope would they likely use?": "Scanning Electron Microscopes",
@@ -391,8 +387,12 @@
   "_________________________ are cells that enclose their DNA in nuclei.": "Eukaryotes",
   "________________________ are cells that do not enclose DNA in nuclei.": "prokaryotes",
   "the very ﬁrst photosynthetic organisms to appear on Earth, nearly 3 billion years ago, were _____________________": "cyanobacteria",
-  "eukaryotic organisms include ____________________ and many unicellular organisms.": "plants, animals, fungi,",
   "in eukaryotic cells, the _______________ separates the genetic material from the rest of the cell.": "nucleus",
   "in __________________, cells are specialized for speciﬁc tasks, such as support, communication, movement, or the production of proteins or other cell products.": "multicellular organisms",
-  "as a general rule, the cells of multi-cellular organisms__________________________. They work together to complete the tasks of life.": "cannot survive individually"
+  "as a general rule, the cells of multi-cellular organisms__________________________. They work together to complete the tasks of life.": "cannot survive individually",
+  "eukaryotic organisms include ____________________ and many unicellular organisms.": "plants, animals, fungi",
+  "the cell theory states:": "All living things are made up of cells; Cells are the basic units of structure and function in living things; New cells are produced from existing cells.",
+  "german physician rudolfvirchow published the idea that_________________": "new cells can be produced only from the division of existing cells.",
+  "in the cell theory theodor schwann stated that____________": "all animals are made of cells.",
+  "the scanning electron microscope produces stunning ______________ images of the specimen's surface.": "three-dimensional"
 }
