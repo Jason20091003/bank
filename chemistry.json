@@ -493,7 +493,6 @@
   "which carry the cells genetic information are also found in the nucleus": "chromosomes",
   "proteins are assembled on": "ribosomes",
   "the portion of the er involved in the synthesis of proteins is called rough endoplasmic reticulum or rough er": "endoplasmic reticulum",
-  "the golgi apparatus modifies sorts and packages proteins and other materials": "modifies sorts and packages",
   "break down lipids carbohydrates and proteins into small molecules that can be used by the rest of the cell": "lysosomes",
   "eukaryotic cells are given their shape and internal organization by a network of protein filaments known as the cytoskeleton": "cytoskeleton",
   "are the biological equivalents of solar power plants": "chloroplasts",
@@ -502,7 +501,7 @@
   "all cells contain cell membranes generally made up of a double layered sheet called a lipid bilayer": "lipid bilayer",
   "nearly all cell membranes are made up of a lipid bilayer in which proteins and carbohydrates are embedded": "proteins",
   "hydrophobic is": "water hating",
-  "hydrophilic is": "water loving",
+  "hydrophilic is ____________": "water loving",
   "most cell membranes are selectively permeable meaning that some substances can pass across them and others cannot": "selectively permeable",
   "selectively permeable membranes are also called semipermeable membranes": "semipermeable membranes",
   "since most living cells are nearly transparent chemical stains or dyes are used to help make cells and their parts visible": "chemical stains or dyes",
@@ -527,5 +526,6 @@
   "the movement of materials against a concentration difference is known as active transport and it requires energy": "active transport",
   "is the process of taking material into the cell by means of infoldings or pockets of the cell membrane": "endocytosis",
   "many cells also release large amounts of material a process known as exocytosis": "exocytosis",
-  "during exocytosis the membrane of the surrounding the material fuses with the cell membrane forcing the contents out of the cell": "vesicle or vacuole"
+  "during exocytosis the membrane of the surrounding the material fuses with the cell membrane forcing the contents out of the cell": "vesicle or vacuole",
+  "the golgi apparatus _______________ proteins and other materials": "modifies sorts and packages"
 }
